@@ -390,6 +390,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libtime_genoff.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtime_genoff.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libulp2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libulp2.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libvoice-svc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvoice-svc.so \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib64/libwifi-hal-prebuilt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwifi-hal-prebuilt.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libxml.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libxml.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.ssc.so \
     vendor/oneplus/oneplus2/proprietary/vendor/qcril.db:$(TARGET_COPY_OUT_VENDOR)/qcril.db
