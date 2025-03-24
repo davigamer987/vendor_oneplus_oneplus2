@@ -106,7 +106,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/egl/libGLESv2_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libGLESv2_adreno.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/egl/libq3dtools_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libq3dtools_adreno.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/egl/libq3dtools_esx.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libq3dtools_esx.so \
-    vendor/oneplus/oneplus2/proprietary/vendor/lib/hw/audio.a2dp.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.a2dp.msm8994.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/hw/gatekeeper.msm8994.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.msm8994.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/hw/sound_trigger.primary.msm8994.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sound_trigger.primary.msm8994.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/hw/vulkan.msm8994.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vulkan.msm8994.so \
